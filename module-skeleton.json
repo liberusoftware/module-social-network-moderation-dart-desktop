@@ -1,0 +1,15 @@
+{
+  "repository": "module-social-network-moderation-dart-desktop",
+  "capabilityKey": "liberusoftware/module-social-network-moderation",
+  "presentation": "dart-desktop",
+  "package": "module_social_network_moderation_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/social-network/nextjs/moderation.md",
+  "presentationPlan": "projects/social-network/features/moderation.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "social-network"
+  ]
+}
